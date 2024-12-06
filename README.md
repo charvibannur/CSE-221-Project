@@ -31,7 +31,7 @@ We utilize mach_absolute_time() as an accurate measure of time for performing ex
 
 ## Summary
 
-![image]("https://github.com/user-attachments/assets/c7dba3be-3bf6-401d-bb19-46a96fc304c1")
+![image](https://github.com/user-attachments/assets/c7dba3be-3bf6-401d-bb19-46a96fc304c1)
 
 
 ## Project Members
